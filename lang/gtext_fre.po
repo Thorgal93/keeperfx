@@ -7349,7 +7349,7 @@ msgstr ""
 #: guitext:1074 guitext:1075
 msgctxt "Unused"
 msgid "Moo8"
-msgstr "Moooooooooo !"
+msgstr "Moo8"
 
 #: guitext:1076
 msgctxt "Door name"
